@@ -104,23 +104,22 @@ $aid_creat = "يمكنك إنشاء رسالة تهنئة خاصة بك .. عن 
 ****************************************************************/
 
 /***   google adsense validation ID    ***/
-$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";
 
 
 /***   data ad client small   ***/
 $small_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
-                
+              ca-pub-2738192887131924  
 /***   data ad solt small   ***/
 $small_ads_slot = "XXXXXXXXXX";
-          
+          9386192675
 
 
 
 /***   data ad client big    ***/
 $big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
-
+ca-pub-2738192887131924
 /***   data ad solt big    ***/
-$big_ads_slot = "XXXXXXXXXX";
+$big_ads_slot = "XXXXXXXXXX";9386192675
 
 
 
